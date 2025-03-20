@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Michael K. Gureghian",
     "section": "",
-    "text": "Michael K. Gureghian is a senior at UCLA studying Statistics and Data Science"
+    "text": "Hello! I’m Michael Krikor Gureghian, a senior studying Statistics & Data Science at UCLA. I’m passionate about finding connections in data to establish understanding and insight when it isn’t innately there.\nI have extensive experience working with medical research and biostatistics, but also have practiced some financial analytics and data engineering. This experience has informed a lot of my analytical skillset, and I’m excited to see what future projects will help me learn and grow even more!"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Michael K. Gureghian",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics & Data Science | Sept 2023 - Present\nPasadena Community College | Pasadena, CA June 2022 - May 2023"
+    "text": "Education\n\nUniversity of California, Los Angeles\nB.S. in Statistics & Data Science\\Sept 2023 - Present (Expected Fall 2025)\n###Pasadena Community College\nJune 2022 - May 2023"
   },
   {
     "objectID": "index.html#experience",
@@ -26,5 +26,75 @@
     "title": "Michael K. Gureghian",
     "section": "Experience",
     "text": "Experience\nDavid Geffen School of Medicine at UCLA | Undergraduate Laboratory Assistant| July 2024 - Present\nTala | Data Engineering Intern | Aug 2023 - Sept 2023\nSeattle Children’s Hospital | Research Assistant | July 2021 - Aug 2023"
+  },
+  {
+    "objectID": "index.html#current-occupation",
+    "href": "index.html#current-occupation",
+    "title": "Michael K. Gureghian",
+    "section": "Current Occupation",
+    "text": "Current Occupation\n\nDavid Geffen School of Medicine at UCLA\nUndergraduate Laboratory Assistant\nJuly 2024 - Present"
+  },
+  {
+    "objectID": "index.html#current-education",
+    "href": "index.html#current-education",
+    "title": "Michael K. Gureghian",
+    "section": "Current Education",
+    "text": "Current Education\n\nUniversity of California, Los Angeles\nB.S. in Statistics & Data Science\nSept 2023 - Present\nExpected graduation in Fall 2025"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Assessing the Effects of Bladder Decellularization Protocols on Protein Content\n\n\n\n\n\nProteomics Comparing Natural and Decellularized Tissue Samples\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDNeasy Decellurization DNA Concentration Analysis\n\n\n\n\n\nComparing DNA Concentration between Natural and Decellularized Tissue Samples\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "HOW DOES THIS WORK",
+    "section": "",
+    "text": "HOW DOES THIS WORK"
+  },
+  {
+    "objectID": "projects/proteomics.html",
+    "href": "projects/proteomics.html",
+    "title": "Assessing the Effects of Bladder Decellularization Protocols on Protein Content",
+    "section": "",
+    "text": "The extracellular matrix (ECM) provides scaffolding and structural support for tissues. During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue, but we want to preserve the ECM in order to maintain structural integrity.\nI performed protein analysis in R which assessed the protein intensity change from natural bladder tissue to treatment-applied tissue, evaluating two different decellularization protocols. This proteomics study was a component of a larger ongoing study which evaluated the effectiveness of different decellularization techniques with the intent of developing an optimized and generalized protocol."
+  },
+  {
+    "objectID": "projects/proteomics.html#summary",
+    "href": "projects/proteomics.html#summary",
+    "title": "Assessing the Effects of Bladder Decellularization Protocols on Protein Content",
+    "section": "",
+    "text": "The extracellular matrix (ECM) provides scaffolding and structural support for tissues. During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue, but we want to preserve the ECM in order to maintain structural integrity.\nI performed protein analysis in R which assessed the protein intensity change from natural bladder tissue to treatment-applied tissue, evaluating two different decellularization protocols. This proteomics study was a component of a larger ongoing study which evaluated the effectiveness of different decellularization techniques with the intent of developing an optimized and generalized protocol."
+  },
+  {
+    "objectID": "projects/proteomics.html#supporting-documents",
+    "href": "projects/proteomics.html#supporting-documents",
+    "title": "Assessing the Effects of Bladder Decellularization Protocols on Protein Content",
+    "section": "Supporting Documents",
+    "text": "Supporting Documents\nDownload Abstract"
+  },
+  {
+    "objectID": "projects/DNeasy.html#supporting-documents",
+    "href": "projects/DNeasy.html#supporting-documents",
+    "title": "DNeasy Decellurization DNA Concentration Analysis",
+    "section": "Supporting Documents",
+    "text": "Supporting Documents\nDownload Report"
+  },
+  {
+    "objectID": "projects/DNeasy.html",
+    "href": "projects/DNeasy.html",
+    "title": "DNeasy Decellurization DNA Concentration Analysis",
+    "section": "",
+    "text": "During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue.\nThis study evaluated the DNA concentration change from natural tissue samples to decellularized samples using a decellularization protocol we found was most optimal in this study. I used R to create visualizations to better evaluate the DNA concentration data that the lab team collected in this study."
+  },
+  {
+    "objectID": "projects/DNeasy.html#summary",
+    "href": "projects/DNeasy.html#summary",
+    "title": "DNeasy Decellurization DNA Concentration Analysis",
+    "section": "",
+    "text": "During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue.\nThis study evaluated the DNA concentration change from natural tissue samples to decellularized samples using a decellularization protocol we found was most optimal in this study. I used R to create visualizations to better evaluate the DNA concentration data that the lab team collected in this study."
   }
 ]

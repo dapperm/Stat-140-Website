@@ -1,0 +1,19 @@
+
+---
+title: "Assessing the Effects of Bladder Decellularization Protocols on Protein Content"
+image: "mean_intensity_plot.png"
+description: "Proteomics Comparing Natural and Decellularized Tissue Samples"
+categories: [David Geffen School of Medicine at UCLA, Sturm Lab]
+---
+
+## Summary
+
+The extracellular matrix (ECM) provides scaffolding and structural support for tissues. During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue, but we want to preserve the ECM in order to maintain structural integrity.
+
+I performed protein analysis in R which assessed the protein intensity change from natural bladder tissue to treatment-applied tissue, evaluating two different decellularization protocols. This proteomics study was a component of a larger ongoing study which evaluated the effectiveness of different decellularization techniques with the intent of developing an optimized and generalized protocol. 
+
+## Supporting Documents
+
+[Download Abstract](eus_abstract.pdf){target="_blank"}
+
+---

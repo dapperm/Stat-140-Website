@@ -1,30 +1,37 @@
 ---
 title: "Michael K. Gureghian"
 about:
-  template: broadside
-links:
+  template: trestles
+  image: profile.jpeg
+  links:
     - icon: github
       text: Github
       href: https://github.com/dapperm
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/mgureghian/
+    - text: Email
+      url: "mailto:mguregh@ucla.edu"
+      icon: inbox-fill
+    - text: Resume
+      url: "mgureghian_resume.pdf"
 ---
 
-Michael K. Gureghian is a senior at UCLA studying Statistics and Data Science 
+**Hello!**  I'm Michael Krikor Gureghian, a senior studying **Statistics & Data Science** at UCLA. I'm passionate about finding connections in data to establish understanding and insight when it isn't innately there. 
 
-## Education
+I have extensive experience working with **medical research** and **biostatistics**, but also have practiced some **financial analytics** and **data engineering**. This experience has informed a lot of my analytical skillset, and I'm excited to see what future projects will help me learn and grow even more!   
 
-University of California, Los Angeles | Los Angeles, CA
-B.S. in Statistics & Data Science | Sept 2023 - Present
+## Current Education
 
-Pasadena Community College | Pasadena, CA
-June 2022 - May 2023
+#### ***University of California, Los Angeles***
 
-## Experience
+**B.S. in Statistics & Data Science**\
+Sept 2023 - Present\
+Expected graduation in ***Fall 2025***
 
-David Geffen School of Medicine at UCLA | Undergraduate Laboratory Assistant| July 2024 - Present
+## Current Occupation
 
-Tala | Data Engineering Intern | Aug 2023 - Sept 2023
+#### ***David Geffen School of Medicine at UCLA*** 
+**Undergraduate Laboratory Assistant**\
+July 2024 - Present
 
-Seattle Children's Hospital | Research Assistant | July 2021 - Aug 2023

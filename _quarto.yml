@@ -4,10 +4,13 @@ project:
 website:
   title: "Michael K. Gureghian"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: work.qmd
+        text: Work Experience
 
 format:
   html:
