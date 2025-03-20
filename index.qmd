@@ -1,5 +1,7 @@
 ---
 title: "Michael K. Gureghian"
+about:
+  template: broadside
 ---
 
 This is a Quarto website.
