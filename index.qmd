@@ -2,6 +2,10 @@
 title: "Michael K. Gureghian"
 about:
   template: broadside
+projects:
+  template: broadside
+resume:
+
 ---
 
 This is a Quarto website.
