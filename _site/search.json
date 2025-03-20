@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Michael K. Gureghian",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Michael K. Gureghian is a senior at UCLA studying Statistics and Data Science"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Michael K. Gureghian",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics & Data Science | Sept 2023 - Present\nPasadena Community College | Pasadena, CA June 2022 - May 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Michael K. Gureghian",
+    "section": "Experience",
+    "text": "Experience\nDavid Geffen School of Medicine at UCLA | Undergraduate Laboratory Assistant| July 2024 - Present\nTala | Data Engineering Intern | Aug 2023 - Sept 2023\nSeattle Children’s Hospital | Research Assistant | July 2021 - Aug 2023"
   }
 ]

@@ -2,16 +2,29 @@
 title: "Michael K. Gureghian"
 about:
   template: broadside
-projects:
-  template: broadside
-resume:
-
+links:
+    - icon: github
+      text: Github
+      href: https://github.com/dapperm
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/mgureghian/
 ---
 
-This is a Quarto website.
+Michael K. Gureghian is a senior at UCLA studying Statistics and Data Science 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
+B.S. in Statistics & Data Science | Sept 2023 - Present
+
+Pasadena Community College | Pasadena, CA
+June 2022 - May 2023
+
+## Experience
+
+David Geffen School of Medicine at UCLA | Undergraduate Laboratory Assistant| July 2024 - Present
+
+Tala | Data Engineering Intern | Aug 2023 - Sept 2023
+
+Seattle Children's Hospital | Research Assistant | July 2021 - Aug 2023
