@@ -9,8 +9,6 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: work.qmd
-        text: Work Experience
 
 format:
   html:

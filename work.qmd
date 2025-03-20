@@ -1,1 +1,8 @@
-# HOW DOES THIS WORK
+---
+title: "Work Experience"
+listing:
+  contents: projects
+   - work/*geffen.qmd
+   - work/*tala.qmd
+   - work/sch.qmd
+---

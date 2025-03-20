@@ -7,12 +7,12 @@ categories: [David Geffen School of Medicine at UCLA, Sturm Lab]
 
 ## Summary
 
-During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue. 
+During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue.
 
-This study evaluated the DNA concentration change from natural tissue samples to decellularized samples using a decellularization protocol we found was most optimal in [this study](proteomics.qmd). I used R to create visualizations to better evaluate the DNA concentration data that the lab team collected in this study. 
+This study evaluated the DNA concentration change from natural tissue samples to decellularized samples using a decellularization protocol we found was most optimal in [this study](proteomics.qmd). I used R to create visualizations to better evaluate the DNA concentration data that the lab team collected in this study.
 
 ## Supporting Documents
 
 [Download Report](main.pdf){target="_blank"}
 
----
+------------------------------------------------------------------------

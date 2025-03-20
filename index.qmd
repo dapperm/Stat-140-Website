@@ -17,9 +17,9 @@ about:
       url: "mgureghian_resume.pdf"
 ---
 
-**Hello!**  I'm Michael Krikor Gureghian, a senior studying **Statistics & Data Science** at UCLA. I'm passionate about finding connections in data to establish understanding and insight when it isn't innately there. 
+**Hello!** I'm Michael Krikor Gureghian, a senior studying **Statistics & Data Science** at UCLA. I'm passionate about finding connections in data to establish understanding and insight when it isn't innately there.
 
-I have extensive experience working with **medical research** and **biostatistics**, but also have practiced some **financial analytics** and **data engineering**. This experience has informed a lot of my analytical skillset, and I'm excited to see what future projects will help me learn and grow even more!   
+I have extensive experience working with **medical research** and **biostatistics**, but also have practiced some **financial analytics** and **data engineering**. This experience has informed a lot of my analytical skillset, and I'm excited to see what future projects will help me learn and grow even more!
 
 ## Current Education
 
@@ -31,7 +31,7 @@ Expected graduation in ***Fall 2025***
 
 ## Current Occupation
 
-#### ***David Geffen School of Medicine at UCLA*** 
+#### ***David Geffen School of Medicine at UCLA***
+
 **Undergraduate Laboratory Assistant**\
 July 2024 - Present
-

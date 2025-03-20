@@ -1,0 +1,11 @@
+---
+title: "Student Research Assistant"
+image: sch.jpg
+description: "Seattle Children's Hospital"
+---
+
+*July 2021 – Aug 2023*
+
+Developed RedCap databases and data collection instruments for clinical data.
+
+Sorted, formatted, and transferred appropriate clinical data from Epic EHR into databases for analysis by senior researchers.

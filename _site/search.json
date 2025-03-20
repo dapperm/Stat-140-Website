@@ -51,9 +51,9 @@
   {
     "objectID": "work.html",
     "href": "work.html",
-    "title": "HOW DOES THIS WORK",
+    "title": "Work Experience",
     "section": "",
-    "text": "HOW DOES THIS WORK"
+    "text": "No matching items"
   },
   {
     "objectID": "projects/proteomics.html",
@@ -96,5 +96,12 @@
     "title": "DNeasy Decellurization DNA Concentration Analysis",
     "section": "",
     "text": "During tissue transplant, we can apply decellurization techniques to remove cellular components which could trigger an immune reaction to the transplanted tissue.\nThis study evaluated the DNA concentration change from natural tissue samples to decellularized samples using a decellularization protocol we found was most optimal in this study. I used R to create visualizations to better evaluate the DNA concentration data that the lab team collected in this study."
+  },
+  {
+    "objectID": "work/sch.html",
+    "href": "work/sch.html",
+    "title": "Student Research Assistant",
+    "section": "",
+    "text": "July 2021 – Aug 2023\nDeveloped RedCap databases and data collection instruments for clinical data.\nSorted, formatted, and transferred appropriate clinical data from Epic EHR into databases for analysis by senior researchers."
   }
 ]

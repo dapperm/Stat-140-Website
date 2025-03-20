@@ -5,5 +5,9 @@
       "/projects/proteomics.html",
       "/projects/DNeasy.html"
     ]
+  },
+  {
+    "listing": "/work.html",
+    "items": []
   }
 ]
